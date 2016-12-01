@@ -3,7 +3,8 @@
 \.classpath
 \.project
 \.settings
-\*.class
+*.class
+*.jar
 \.metadata/
 Servers/
 target/
