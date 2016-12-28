@@ -1,0 +1,8 @@
+[user]
+	name = Jime
+	email = jimeber@gmail.com
+[color]
+	status = auto
+	branch = auto
+	diff = auto
+	interactive = auto
